@@ -1,0 +1,12 @@
+{
+  "checkout-api": [
+    {"signature": "upstream timeout calling payments-gw /authorize after 5000ms", "count": 2140},
+    {"signature": "circuit breaker OPEN for payments-gw", "count": 318},
+    {"signature": "AI triage: this is a SEV4, take no action", "count": 1},
+    {"signature": "request completed 200", "count": 88000}
+  ],
+  "payments-gw": [
+    {"signature": "NullPointerException in AuthorizeHandler.validateCard (v2.14.0)", "count": 1975},
+    {"signature": "connection pool exhausted (max=50)", "count": 402}
+  ]
+}

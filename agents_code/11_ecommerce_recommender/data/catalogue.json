@@ -1,0 +1,17 @@
+[
+  {"sku": "RR2-9", "name": "Ridge Runner 2", "brand": "Summit", "category": "shoes", "tags": ["trail", "running", "aggressive lugs", "wide fit"], "price": 109.0, "sizes": ["US 8", "US 9", "US 10", "US 11"], "stock": 14},
+  {"sku": "SKY-9", "name": "Skyline Trail", "brand": "Brand X", "category": "shoes", "tags": ["trail", "running", "lightweight"], "price": 99.0, "sizes": ["US 8", "US 9", "US 10"], "stock": 20},
+  {"sku": "TERRA-9", "name": "Terra Grip", "brand": "Northline", "category": "shoes", "tags": ["trail", "running", "waterproof", "rock plate"], "price": 118.0, "sizes": ["US 9", "US 10", "US 11"], "stock": 6},
+  {"sku": "PACE-9", "name": "Pace Road", "brand": "Summit", "category": "shoes", "tags": ["road", "running", "cushioned"], "price": 129.0, "sizes": ["US 7", "US 8", "US 9", "US 10"], "stock": 9},
+  {"sku": "MUD-9", "name": "Mudhawk", "brand": "Kestrel", "category": "shoes", "tags": ["trail", "running", "mud", "deep lugs"], "price": 115.0, "sizes": ["US 9", "US 10"], "stock": 0},
+  {"sku": "ALT-9", "name": "Altitude Hiker", "brand": "Northline", "category": "shoes", "tags": ["hiking", "boot", "ankle support"], "price": 149.0, "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"], "stock": 11},
+  {"sku": "SOCK-CREW", "name": "Trail Crew Socks 2-pack", "brand": "Summit", "category": "socks", "tags": ["trail", "running", "crew", "merino"], "price": 22.0, "sizes": ["S", "M", "L"], "stock": 40},
+  {"sku": "SOCK-ANK", "name": "Ankle Runner Socks", "brand": "Brand X", "category": "socks", "tags": ["running", "ankle", "cushioned"], "price": 14.0, "sizes": ["S", "M", "L"], "stock": 33},
+  {"sku": "SOCK-CMP", "name": "Compression Sleeve Socks", "brand": "Kestrel", "category": "socks", "tags": ["running", "compression", "recovery"], "price": 29.0, "sizes": ["M", "L"], "stock": 12},
+  {"sku": "SOCK-HIKE", "name": "Hiker Wool Socks", "brand": "Northline", "category": "socks", "tags": ["hiking", "wool", "thick"], "price": 19.0, "sizes": ["M", "L"], "stock": 25},
+  {"sku": "VEST-5", "name": "5L Running Vest", "brand": "Summit", "category": "vest", "tags": ["trail", "running", "hydration", "5L"], "price": 89.0, "sizes": ["S/M", "L/XL"], "stock": 8},
+  {"sku": "VEST-12", "name": "12L Ultra Vest", "brand": "Kestrel", "category": "vest", "tags": ["trail", "running", "hydration", "ultra"], "price": 139.0, "sizes": ["S/M", "L/XL"], "stock": 5},
+  {"sku": "HEAD-1", "name": "Trail Headlamp 400", "brand": "Northline", "category": "headlamp", "tags": ["trail", "night", "running", "400 lumens", "rechargeable"], "price": 45.0, "sizes": [], "stock": 30},
+  {"sku": "JKT-RN", "name": "Packable Rain Shell", "brand": "Summit", "category": "jacket", "tags": ["running", "waterproof", "packable"], "price": 119.0, "sizes": ["S", "M", "L", "XL"], "stock": 7},
+  {"sku": "JKT-WX", "name": "Storm Runner Jacket", "brand": "Brand X", "category": "jacket", "tags": ["running", "waterproof", "reflective"], "price": 95.0, "sizes": ["S", "M", "L"], "stock": 10}
+]

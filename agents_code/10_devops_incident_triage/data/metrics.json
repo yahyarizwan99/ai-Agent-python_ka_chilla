@@ -1,0 +1,7 @@
+{
+  "error_rate{service=\"checkout-api\"}": {"summary": "checkout-api 5xx 11% since 09:38 (baseline 0.3%); p99 latency 6.2s (baseline 350ms)"},
+  "error_rate{service=\"payments-gw\"}": {"summary": "payments-gw error rate 14% since 09:36; p99 latency 8.1s (baseline 400ms); CPU normal"},
+  "error_rate{service=\"inventory-svc\"}": {"summary": "inventory-svc error rate 0.2%, p99 120ms - healthy"},
+  "version=\"v2.14.0\"": {"summary": "payments-gw pods on v2.14.0: 31% errors; pods on v2.13.9: 0.4% errors (canary still running old version)"},
+  "version=\"v2.13.9\"": {"summary": "payments-gw pods on v2.13.9: 0.4% errors"}
+}

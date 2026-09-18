@@ -1,0 +1,5 @@
+{
+  "checkout-api": {"owners": "payments-oncall", "deps": ["payments-gw", "inventory-svc"], "slo": "99.9% success over 30d", "runbook": "rb-checkout"},
+  "payments-gw": {"owners": "payments-oncall", "deps": [], "slo": "99.95%", "runbook": "rb-payments-gw"},
+  "inventory-svc": {"owners": "catalog-oncall", "deps": [], "slo": "99.9%", "runbook": "rb-inventory"}
+}

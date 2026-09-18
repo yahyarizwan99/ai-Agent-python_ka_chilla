@@ -1,0 +1,17 @@
+Name: Bilal Hussain
+Phone: 0321-9876543
+Address: DHA Phase 5, Lahore
+
+Summary
+Data platform engineer, 6 years, streaming focus.
+
+Experience
+Data Platform Engineer, StreamCo (2020-present)
+- Owned Airflow platform (400+ DAGs) and its Kubernetes deployment.
+- Built Spark Structured Streaming jobs on AWS EMR reading from Kafka.
+- Advanced SQL: designed dimensional models for product analytics; SCD handling in Snowflake.
+- Mentored interns each summer; wrote the team's code review guide.
+Data Engineer, Insight Labs (2018-2020)
+- Python ETL pipelines to S3 with Terraform-managed infra.
+
+Skills: Python, Spark, Airflow, Kafka, AWS, Snowflake, Terraform, SQL

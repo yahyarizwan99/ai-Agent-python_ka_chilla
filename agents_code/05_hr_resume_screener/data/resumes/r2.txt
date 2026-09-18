@@ -1,0 +1,16 @@
+Name: Sara Khan
+Email: sara.k@example.com
+Age: 27
+
+Profile
+Backend developer moving into data engineering.
+
+Experience
+Software Engineer, FinPay (2022-present)
+- Python microservices on GCP; wrote SQL reports in BigQuery for the finance team.
+- Set up Cloud IAM roles and service accounts for the data team.
+- Built a small nightly export job with cron.
+Junior Developer, WebWorks (2020-2022)
+- Django apps, PostgreSQL.
+
+Skills: Python, SQL, BigQuery, GCP, Django, PostgreSQL

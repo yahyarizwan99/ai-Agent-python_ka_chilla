@@ -1,0 +1,80 @@
+{
+  "revenue": {
+    "channel": [
+      {"value": "Paid Social", "current": 420000, "prior": 335000},
+      {"value": "Organic", "current": 510000, "prior": 490000},
+      {"value": "Email", "current": 190000, "prior": 175000},
+      {"value": "Affiliate", "current": 120000, "prior": 100000}
+    ],
+    "region": [
+      {"value": "North", "current": 400000, "prior": 360000},
+      {"value": "South", "current": 300000, "prior": 270000},
+      {"value": "East", "current": 290000, "prior": 250000},
+      {"value": "West", "current": 250000, "prior": 220000}
+    ],
+    "product_line": [
+      {"value": "Lighting", "current": 380000, "prior": 320000},
+      {"value": "Furniture", "current": 500000, "prior": 460000},
+      {"value": "Audio", "current": 220000, "prior": 200000},
+      {"value": "Footwear", "current": 140000, "prior": 120000}
+    ]
+  },
+  "refund_rate": {
+    "product_line": [
+      {"value": "Lighting", "current": 2.1, "prior": 2.0},
+      {"value": "Furniture", "current": 3.0, "prior": 2.9},
+      {"value": "Audio", "current": 2.6, "prior": 2.5},
+      {"value": "Footwear", "current": 9.1, "prior": 4.8}
+    ],
+    "region": [
+      {"value": "North", "current": 4.3, "prior": 3.1},
+      {"value": "South", "current": 4.1, "prior": 3.0},
+      {"value": "East", "current": 4.2, "prior": 3.0},
+      {"value": "West", "current": 4.2, "prior": 3.1}
+    ],
+    "channel": [
+      {"value": "Paid Social", "current": 4.5, "prior": 3.2},
+      {"value": "Organic", "current": 4.0, "prior": 3.0},
+      {"value": "Email", "current": 4.1, "prior": 3.0},
+      {"value": "Affiliate", "current": 4.3, "prior": 3.1}
+    ]
+  },
+  "sessions": {
+    "region": [
+      {"value": "North", "current": 130000, "prior": 131000},
+      {"value": "South", "current": 100000, "prior": 101000},
+      {"value": "East", "current": 92000, "prior": 105000},
+      {"value": "West", "current": 90000, "prior": 92000}
+    ],
+    "channel": [
+      {"value": "Paid Social", "current": 120000, "prior": 118000},
+      {"value": "Organic", "current": 190000, "prior": 205000},
+      {"value": "Email", "current": 60000, "prior": 62000},
+      {"value": "Affiliate", "current": 42000, "prior": 44000}
+    ]
+  },
+  "orders": {
+    "channel": [
+      {"value": "Paid Social", "current": 3600, "prior": 3050},
+      {"value": "Organic", "current": 4300, "prior": 4300},
+      {"value": "Email", "current": 1550, "prior": 1550},
+      {"value": "Affiliate", "current": 1000, "prior": 1000}
+    ]
+  },
+  "conversion_rate": {
+    "channel": [
+      {"value": "Paid Social", "current": 3.0, "prior": 2.58},
+      {"value": "Organic", "current": 2.26, "prior": 2.1},
+      {"value": "Email", "current": 2.58, "prior": 2.5},
+      {"value": "Affiliate", "current": 2.38, "prior": 2.27}
+    ]
+  },
+  "avg_order_value": {
+    "product_line": [
+      {"value": "Lighting", "current": 125, "prior": 112},
+      {"value": "Furniture", "current": 240, "prior": 236},
+      {"value": "Audio", "current": 74, "prior": 73},
+      {"value": "Footwear", "current": 88, "prior": 86}
+    ]
+  }
+}

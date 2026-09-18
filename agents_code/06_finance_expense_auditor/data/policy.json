@@ -1,0 +1,19 @@
+{
+  "version": "2026-07",
+  "auto_approval_limit": 500,
+  "receipt_required_above": 25,
+  "category_limits": {"meals": 100, "hotel": 300, "taxi": 80, "travel": 1500, "software": 250, "office": 150},
+  "rule_ids": {"meals": "MEALS-1", "hotel": "HOTEL-1", "taxi": "TAXI-1", "travel": "TRAVEL-1", "software": "SOFT-1", "office": "OFFICE-1"},
+  "text": {
+    "MEALS-1": "Meals are reimbursable up to $100 per line.",
+    "HOTEL-1": "Hotel stays are reimbursable up to $300 per night.",
+    "TAXI-1": "Ground transport up to $80 per trip.",
+    "TRAVEL-1": "Flights and rail up to $1500 per booking.",
+    "SOFT-1": "Software subscriptions up to $250 per line; above requires IT approval.",
+    "OFFICE-1": "Office supplies up to $150 per line.",
+    "RECEIPT-1": "A receipt is required for any line above $25.",
+    "RECEIPT-2": "The receipt amount must match the claimed amount.",
+    "TRAVEL-3": "Weekend travel (Sat/Sun) requires a business justification note.",
+    "AUTO-1": "Lines above $500 require finance-manager approval."
+  }
+}

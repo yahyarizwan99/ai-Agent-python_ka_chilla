@@ -1,0 +1,4 @@
+[
+  {"service": "payments-gw", "type": "deploy", "version": "v2.14.0", "at": "2026-09-12T09:35:00Z", "by": "ci-bot", "notes": "card validation refactor"},
+  {"service": "inventory-svc", "type": "config", "version": "", "at": "2026-09-12T08:10:00Z", "by": "u/omar", "notes": "cache TTL 60s -> 120s"}
+]

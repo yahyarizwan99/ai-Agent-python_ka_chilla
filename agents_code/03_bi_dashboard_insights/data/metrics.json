@@ -1,0 +1,14 @@
+{
+  "period_label": "Week 36 vs Week 35",
+  "dimensions": ["region", "channel", "product_line"],
+  "metrics": [
+    {"name": "revenue", "current": 1240000, "prior": 1100000, "unit": "USD"},
+    {"name": "orders", "current": 10450, "prior": 9900, "unit": "orders"},
+    {"name": "refund_rate", "current": 4.2, "prior": 3.05, "unit": "%"},
+    {"name": "sessions", "current": 412000, "prior": 429000, "unit": "sessions"},
+    {"name": "conversion_rate", "current": 2.54, "prior": 2.31, "unit": "%"},
+    {"name": "avg_order_value", "current": 118.7, "prior": 111.1, "unit": "USD"},
+    {"name": "support_tickets", "current": 1320, "prior": 1290, "unit": "tickets"},
+    {"name": "nps", "current": 41, "prior": 42, "unit": "points"}
+  ]
+}

@@ -1,0 +1,15 @@
+Senior Data Engineer
+
+We are hiring a Senior Data Engineer to own our batch and streaming pipelines.
+
+Must have:
+- 5+ years building data pipelines in Python
+- Strong Apache Spark experience (PySpark, tuning, partitioning)
+- Workflow orchestration with Airflow or similar
+- Advanced SQL and data modelling (star schemas, slowly changing dimensions)
+- Cloud data platforms (AWS or GCP): S3/BigQuery/Redshift, IAM basics
+
+Nice to have:
+- Kafka or another streaming platform
+- Mentoring junior engineers, code review culture
+- dbt, Terraform

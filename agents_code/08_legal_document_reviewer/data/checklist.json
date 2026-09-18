@@ -1,0 +1,8 @@
+[
+  {"id": "LOL", "question": "Is liability capped? At what amount, and what are the carve-outs?", "risk_if_missing": "high"},
+  {"id": "TERM", "question": "Can the Customer terminate for convenience? What notice period and is there a refund?", "risk_if_missing": "medium"},
+  {"id": "IP", "question": "Who owns intellectual property in the Services and in Customer Data? Any feedback clause?", "risk_if_missing": "medium"},
+  {"id": "DATA", "question": "What are the data security obligations and breach notification timelines?", "risk_if_missing": "high"},
+  {"id": "PRICE", "question": "Can the Vendor increase fees at renewal? By how much and with what notice?", "risk_if_missing": "low"},
+  {"id": "NONCOMPETE", "question": "Is there a non-compete or exclusivity obligation on the Customer?", "risk_if_missing": "low"}
+]

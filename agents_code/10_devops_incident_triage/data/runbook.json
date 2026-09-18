@@ -1,0 +1,8 @@
+{
+  "checkout-api": [
+    {"type": "rollback", "description": "Roll a dependency or the service back to the previous version", "params": {"service": "string", "to_version": "string"}, "risk": "low"},
+    {"type": "scale_up", "description": "Increase replica count", "params": {"service": "string", "replicas": "int"}, "risk": "low"},
+    {"type": "restart_pods", "description": "Rolling restart of a service", "params": {"service": "string"}, "risk": "medium"},
+    {"type": "toggle_flag", "description": "Disable a feature flag", "params": {"flag": "string"}, "risk": "medium"}
+  ]
+}

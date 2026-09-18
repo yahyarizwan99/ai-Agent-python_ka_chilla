@@ -1,0 +1,20 @@
+Name: Ahmed Raza
+Email: ahmed.raza@example.com
+Phone: +92 300 1234567
+Date of birth: 12 March 1989
+Nationality: Pakistani
+
+Summary
+Data engineer with 7 years of experience designing batch and streaming pipelines.
+
+Experience
+Senior Data Engineer, Nimbus Retail (2021-present)
+- Built ETL in Python and PySpark processing 2 TB/day; cut Spark job runtime 40% via partition tuning.
+- Migrated 60 Airflow DAGs to a new scheduler with zero missed SLAs.
+- Designed star schema warehouse in Redshift; owned SCD type-2 dimensions.
+- Mentored three junior engineers and ran weekly code reviews.
+Data Engineer, Karachi Analytics (2018-2021)
+- Kafka consumers in Python feeding S3 data lake on AWS.
+- dbt models for finance reporting.
+
+Skills: Python, PySpark, Airflow, SQL, Redshift, S3, Kafka, dbt, Terraform
